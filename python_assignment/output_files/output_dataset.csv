@@ -1,0 +1,25 @@
+,Oblast,Livelihood_Score,Severity
+1,Kyivska,90.0,High
+2,Lvivska,80.0,High
+3,Kirovohradska,78.0,High
+4,Kharkivska,77.0,High
+5,Donetska,76.0,High
+6,Sumska,75.0,High
+7,Zhytomyrska,75.0,High
+8,Zaporizka,74.0,Medium
+9,Rivnenska,72.0,Medium
+10,Dnipropetrovska,66.0,Medium
+11,Cherkaska,64.0,Medium
+12,Volynska,63.0,Medium
+13,Ternopilska,62.0,Medium
+14,Poltavska,60.0,Medium
+15,Khersonska,57.0,Medium
+16,Mykolaivska,55.0,Medium
+17,Kyiv city,50.0,Medium
+18,IvanoFrankivska,49.0,Low
+19,Khmelnytska,45.0,Low
+20,Chernihivska,39.0,Low
+21,Zakarpatska,0.0,Low
+22,Odeska,0.0,Low
+23,Chernivetska,0.0,Low
+24,Vinnytska,0.0,Low
